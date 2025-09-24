@@ -1,9 +1,5 @@
 # Tarea_Ana-Maria-Hernandez
-¡Con gusto, Ana! Aquí tienes una explicación clara y profesional para incluir en un archivo `README.md`, ideal si estás documentando tu simulación M/M/1/K en Python para un proyecto académico o técnico:
 
----
-
-# README: Simulación de sistema de colas M/M/1/K en Python
 
 ##  Descripción
 
